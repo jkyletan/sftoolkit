@@ -10,13 +10,12 @@ This module provides utilities for handling CSV and JSON data interactions with 
 - Node.js (version 14 or higher)
 - Salesforce CLI (`sf` command installed and configured with Salesforce org aliases)
 
-## Installation
+## Import
 
-1. Ensure you have Node.js installed on your machine.
-2. Install the necessary npm packages:
+- Import methods similar to below or reference this code: https://github.com/jkyletan/nodePhDreamin2025
 
-```bash
-npm install fs csv-parser json-2-csv time-stamp
+```javascript
+import {getJsonDataFromCsv, createCsvFileFromJson, bulkInsertToSalesforce} from '@_kyletan/sftoolkit'
 ```
 
 ## Functions
