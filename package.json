@@ -1,6 +1,6 @@
 {
   "name": "@_kyletan/sftoolkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,21 @@
   },
   "type": "module",
   "devDependencies": {},
-  "description": "Here's a README.md for the provided JavaScript code:"
+  "description": "Here's a README.md for the provided JavaScript code:",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkyletan/sftoolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkyletan/sftoolkit/issues"
+  },
+  "homepage": "https://github.com/jkyletan/sftoolkit#readme",
+  "keywords": [
+    "salesforce",
+    "sfdx",
+    "sf",
+    "nodejs",
+    "csv",
+    "bulkapi"
+  ]
 }
