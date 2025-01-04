@@ -20,7 +20,6 @@ npm install fs csv-parser json-2-csv time-stamp
 ```
 
 ## Functions
-## Functions
 
 ### `getJsonDataFromCsv(filePath)`
 - **Description:** Converts a CSV file to JSON format.
